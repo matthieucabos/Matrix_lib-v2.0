@@ -1,0 +1,4 @@
+Functions
+=========
+
+:ref:`abs`
