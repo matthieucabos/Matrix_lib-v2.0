@@ -2,7 +2,10 @@
 
 Updated Matrix Library
 
-A full matrix engine library wrote in Cython 3.8
+A full matrix engine library wrote in Cython / Python 3.8
+Clone to your local disk and compile using :
+
+python setup.py build_ext --inplace
 
 Documentation is avaible at : https://drive.google.com/drive/folders/1IrVBpC4xbdME7-61y-o74xJhAeYiBCqy?usp=sharing
 
