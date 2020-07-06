@@ -34,11 +34,10 @@ release = '2.0'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 autosummary_generate = True
-extensions = ['autoapi.extension','numpydoc','sphinx.ext.napoleon','sphinx.ext.autodoc','sphinx.ext.intersphinx','sphinx_automodapi.automodapi']
+extensions = ['numpydoc','sphinx.ext.napoleon','sphinx.ext.autodoc','sphinx.ext.intersphinx','sphinx_automodapi.automodapi']
 numpydoc_show_class_members = False
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
-autoapi_dirs=['..']
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
