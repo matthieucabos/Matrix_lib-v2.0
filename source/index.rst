@@ -18,10 +18,11 @@ Welcome to Matrix's documentation!
 	environment.BuildEnvironment
 	util.relative_uri
 
-.. currentmodule:: cmatrix
-
-.. automodapi:: cmatrix
-	:include-all-objects:
+.. automodule:: cmatrix
+   :members:
+   :special-members:
+   :private-members:
+   :noindex:
 
 
 
