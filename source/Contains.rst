@@ -43,4 +43,4 @@ False
 
 See Also
 --------
-cmatrix.find_sub_matrix		
+:func:`op`

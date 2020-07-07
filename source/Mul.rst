@@ -3,12 +3,11 @@ Mul function
 
 Genericity polymorphism 'mul' function
 
-=============== ========= ================================
-**Parameters**   **Type**   **Description**
-*mat*            Matrix    The matrix to multiply
-*mat             int       The multiplicative coefficient
-*mat*            double    The multiplicative coefficient
-=============== ========= ================================
+=============== ============ ================================
+**Parameters**   **Type**      **Description**
+*mat*            Matrix       The matrix to multiply
+*mat*            int/double   The multiplicative coefficient
+=============== ============ ================================
 
 Returns
 -------
@@ -41,4 +40,4 @@ printed
 
 See Also
 --------
-cmatrix.op
+:func:`cmatrix.Matrix.op`

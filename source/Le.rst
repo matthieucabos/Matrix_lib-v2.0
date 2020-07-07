@@ -21,7 +21,3 @@ Returns
 -------
 	bint
 		Return the test less or equal between the length of the self matrix and the length of mat argument.
-
-See Also
---------
-cmatrix.len

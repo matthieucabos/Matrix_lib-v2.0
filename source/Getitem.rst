@@ -35,4 +35,5 @@ printed
 
 See Also
 --------
-cmatrix.get_ij, cmatrix.xtract_sub_matrix
+:func:`cmatrix.Matrix.get_ij`
+:func:`cmatrix.Matrix.xtract_sub_matrix`

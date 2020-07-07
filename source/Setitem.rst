@@ -40,4 +40,5 @@ printed
 
 See Also
 --------
-cmatrix.set_ij, cmatrix.insert_sub_matrix
+:func:`cmatrix.set_ij`
+:func:`cmatrix.insert_sub_matrix`

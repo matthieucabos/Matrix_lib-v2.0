@@ -22,4 +22,7 @@ True
 
 See Also
 --------
-cmatrix.same_size, cmatrix.size_r, cmatrix.size_c, cmatrix.get_ij
+:func:`cmatrix.Matrix.same_size`
+:func:`cmatrix.Matrix.size_r`
+:func:`cmatrix.Matrix.size_c`
+:func:`cmatrix.Matrix.get_ij`

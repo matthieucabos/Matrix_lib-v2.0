@@ -34,7 +34,7 @@ release = '2.0'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 autosummary_generate = True
-extensions = ['numpydoc','sphinx.ext.napoleon','sphinx.ext.autodoc','sphinx.ext.intersphinx','sphinx_automodapi.automodapi']
+extensions = ['sphinx.ext.autosectionlabel','numpydoc','sphinx.ext.napoleon','sphinx.ext.autodoc','sphinx.ext.intersphinx']
 numpydoc_show_class_members = False
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -43,8 +43,7 @@ templates_path = ['_templates']
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = []
-automodapi_inheritance_diagram = False
-automodsumm_inherited_members = True
+autosectionlabel_prefix_document = True
 
 # -- Options for HTML output -------------------------------------------------
 

@@ -10,22 +10,13 @@ Welcome to Matrix's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   Introduction
    Usage
+   Functions
+   Matrix
 
 .. autosummary::
 	:recursive:
-
-	environment.BuildEnvironment
-	util.relative_uri
-
-.. automodule:: cmatrix
-   :members:
-   :special-members:
-   :private-members:
-   :noindex:
-
-
-
 
 Indices and tables
 ==================

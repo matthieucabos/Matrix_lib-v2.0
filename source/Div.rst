@@ -32,4 +32,4 @@ printed
 
 See Also
 --------
-cmatrix.op
+:func:`cmatrix.Matrix.op`

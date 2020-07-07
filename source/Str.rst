@@ -15,4 +15,4 @@ printed
 
 See Also
 --------
-cmatrix.Print
+:func:`cmatrix.Matrix.Print`
