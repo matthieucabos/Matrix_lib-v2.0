@@ -17,6 +17,9 @@ algebrica opeations on matrix and usefull utils (save and load, quick access, qu
  python setup.py build_ext --inplace
  
  The help documentation may be found using index.html
+ You have to generate it using the command:
+ 
+ make html
  
 I've been working on an high-performance matrix code to rule many of standard calculation
 on the Anubis calculator (Graph transistion matrix, System resolution, etc) from Lenovo.
