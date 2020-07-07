@@ -195,8 +195,8 @@ cpdef double complement(int x,int base=2):
 
 		See Also
 		--------
-		split_number
-		complement_at
+		:func:`split_number`
+		:func:`complement_at`
 		
 		Examples
 		--------
@@ -451,7 +451,7 @@ cpdef list find_seq(list liste):
 
 		See Also
 		--------
-		find_seq_in_list
+		:func:`find_seq_in_list`
 	"""
 	cdef list res
 	cdef int i
@@ -561,8 +561,12 @@ cpdef tuple find_mul_seq(list liste):
 		([6, 4, 5], 3)
 
 		See Also
-		--------
-		create_mutants, find_seq_in_list, count_seq, suppr_double, find_max
+		--------		
+		:func:`create_mutants`
+		:func:`find_seq_in_list`
+		:func:`count_seq`
+		:func:`suppr_double`
+		:func:`find_max`
 	"""
 	#Return the sequence (if founded) with number of repetition
 	#Should be used as ARN/ADN sequence analizer :)
@@ -869,7 +873,8 @@ cdef class Matrix(object):
 
 			See Also
 			--------
-			Matrix,	set_ij,	get_ij
+			:func:`set_ij`
+			:func:`get_ij`
 		"""
 		cdef int from_i
 		cdef int from_j
@@ -913,7 +918,9 @@ cdef class Matrix(object):
 			
 			See Also
 			--------
-			size_r,	size_c,	get_ij
+			:func:`size_r`
+			:func:`size_c`
+			:func:`get_ij`
 		"""
 		cdef int to_i
 		cdef int to_j
@@ -976,7 +983,9 @@ cdef class Matrix(object):
 
 			See Also
 			--------
-			get_ij,	size_r,	size_c
+			:func:`get_ij`
+			:func:`size_r`
+			:func:`size_c`
 		"""
 		cdef bint res 
 		cdef int i 
@@ -1112,7 +1121,13 @@ cdef class Matrix(object):
 
 			See Also
 			--------
-			size_r, size_c, same_size, get_ij, set_ij, mult_compatible, transpose, Matrix
+			:func:`size_r`
+			:func:`size_c`
+			:func:`same_size`
+			:func:`get_ij`
+			:func:`set_ij`
+			:func:`mult_compatible`
+			:func:`transpose`
 		"""
 		cdef double tmp
 		cdef int i 
@@ -1804,7 +1819,10 @@ cdef class Matrix(object):
 
 			See Also
 			--------
-			square, clone, size_r, inverse
+			:func:`square`
+			:func:`clone`
+			:func:`size_r`
+			:func:`inverse`
 		"""
 		cdef Matrix Y
 		cdef Matrix Z 
@@ -1856,7 +1874,9 @@ cdef class Matrix(object):
 
 			See Also
 			--------
-			size_r,	size_c,	switch,	get_ij
+			:func:`size_r`
+			:func:`size_c`
+			:func:`get_ij`
 		"""
 		cdef int i
 		cdef int j
@@ -1922,7 +1942,7 @@ cdef class Matrix(object):
 
 			See Also
 			--------
-			op
+			:func:`op`
 		"""
 		return self.op(mat,'&')
 
@@ -1967,7 +1987,7 @@ cdef class Matrix(object):
 
 			See Also
 			--------
-			op
+			:func:`op`
 		"""
 		return self.op(mat,'|')
 
@@ -2011,7 +2031,7 @@ cdef class Matrix(object):
 
 			See Also
 			--------
-			op
+			:func:`op`
 		"""
 		return self.op(mat,'~')
 
@@ -2055,7 +2075,7 @@ cdef class Matrix(object):
 
 			See Also
 			--------
-			op
+			:func:`op`
 		"""
 		return self.op(mat,'¤')
 
@@ -2099,7 +2119,7 @@ cdef class Matrix(object):
 
 			See Also
 			--------
-			op
+			:func:`op`
 		"""
 		return self.op(mat,'¨')
 
@@ -2171,7 +2191,7 @@ cdef class Matrix(object):
 
 			See Also
 			--------
-			get_ij
+			:func:`get_ij`
 		"""
 		cdef list res 
 		cdef int i
@@ -2214,7 +2234,9 @@ cdef class Matrix(object):
 
 			See Also
 			--------
-			size_r,	get_ij,	set_ij
+			:func:`size_r`
+			:func:`get_ij`
+			:func:`set_ij`
 		"""
 		cdef list tmpa
 		cdef list tmpb
@@ -2262,7 +2284,9 @@ cdef class Matrix(object):
 
 			See Also
 			--------
-			size_r,	get_ij,	set_ij
+			:func:`size_r`
+			:func:`get_ij`
+			:func:`set_ij`
 		"""
 		cdef list tmpa 
 		cdef list tmpb 
@@ -2317,7 +2341,11 @@ cdef class Matrix(object):
 
 			See Also
 			--------
-			size_r,	size_c,	clone,	transpose,	swap_col
+			:func:`size_r`
+			:func:`size_c`
+			:func:`clone`
+			:func:`transpose`
+			:func:`swap_col`
 		"""
 		cdef Matrix res 
 		cdef int i 
@@ -2390,7 +2418,11 @@ cdef class Matrix(object):
 
 			See Also
 			--------
-			size_r,	nth_diagonal,	mirror_mat,	get_ij,	reverse
+			:func:`size_r`
+			:func:`nth_diagonal`
+			:func:`mirror_mat`
+			:func:`get_ij`
+			:func:`reverse`
 		"""
 		cdef list res 
 		cdef int i
@@ -2444,7 +2476,9 @@ cdef class Matrix(object):
 
 			See Also
 			--------
-			size_r,	size_c,	get_ij
+			:func:`size_r`
+			:func:`size_c`
+			:func:`get_ij`
 		"""
 		cdef double summ 
 		cdef int i
@@ -2498,7 +2532,10 @@ cdef class Matrix(object):
 
 			See Also
 			--------
-			size_r,	size_c,	set_ij,	get_ij
+			:func:`size_r`
+			:func:`size_c`
+			:func:`set_ij`
+			:func:`get_ij`
 		"""
 		cdef int i
 		cdef int j
@@ -2603,7 +2640,10 @@ cdef class Matrix(object):
 
 			See Also
 			--------
-			size_r,	size_c,	get_ij,	set_ij
+			:func:`size_r`
+			:func:`size_c`
+			:func:`get_ij`
+			:func:`set_ij`
 		"""
 		cdef int i
 		cdef int j
@@ -2706,7 +2746,10 @@ cdef class Matrix(object):
 
 			See Also
 			--------
-			size_c,	size_r,	set_ij,	get_ij
+			:func:`size_c`
+			:func:`size_r`
+			:func:`set_ij`
+			:func:`get_ij`
 		"""
 		cdef Matrix res 
 		cdef int i 
@@ -2761,8 +2804,10 @@ cdef class Matrix(object):
 
 			See Also
 			--------
-			size_r,	size_c,	square,	transpose
-
+			:func:`size_r`
+			:func:`size_c`
+			:func:`square`
+			:func:`transpose`
 		"""
 		cdef int length
 		cdef int i
@@ -2821,7 +2866,8 @@ cdef class Matrix(object):
 			
 			See Also
 			--------
-			clone, set_ij
+			:func:`clone`
+			:func:`set_ij`
 		"""
 		cdef int i
 		cdef int j
@@ -2885,7 +2931,11 @@ cdef class Matrix(object):
 
 			See Also
 			--------
-			square,	size_r,	xtract_sub_matrix,	set_ij,	get_ij
+			:func:`square`
+			:func:`size_r`
+			:func:`xtract_sub_matrix`
+			:func:`set_ij`
+			:func:`get_ij`
 		"""
 		cdef int local_length
 		cdef Matrix a_11
@@ -3026,7 +3076,11 @@ cdef class Matrix(object):
 
 			See Also
 			--------
-			size_r,	size_c,	set_ij,	get_ij,	transpose
+			:func:`size_r`
+			:func:`size_c`
+			:func:`set_ij`
+			:func:`get_ij`
+			:func:`transpose`
 		"""
 
 		cdef int i
@@ -3102,7 +3156,8 @@ cdef class Matrix(object):
 
 			See Also
 			--------
-			size_r, get_ij
+			:func:`size_r`
+			:func:`get_ij`
 		"""
 		cdef int i
 		cdef double res
@@ -3151,7 +3206,9 @@ cdef class Matrix(object):
 
 			See Also
 			--------
-			size_r,	size_c,	insert_sub_matrix
+			:func:`size_r`
+			:func:`size_c`
+			:func:`insert_sub_matrix`
 		"""
 		cdef int ind 
 		cdef int d
@@ -3225,7 +3282,11 @@ cdef class Matrix(object):
 
 			See Also
 			--------
-			size_c,	set_ij,	get_ij,	size_r,	nth_diagonal
+			:func:`size_c`
+			:func:`set_ij`
+			:func:`get_ij`
+			:func:`size_r`
+			:func:`nth_diagonal`
 		"""
 		cdef Matrix swap 
 		cdef Matrix tmp 
@@ -3332,7 +3393,11 @@ cdef class Matrix(object):
 
 			See Also
 			--------
-			same_size, size_r, size_c, set_ij, get_ij
+			:func:`same_size`
+			:func:`size_r`
+			:func:`size_c`
+			:func:`set_ij`
+			:func:`get_ij`
 		"""
 		cdef Matrix mean 
 		cdef int i
@@ -3390,7 +3455,10 @@ cdef class Matrix(object):
 
 			See Also
 			--------
-			same_size, size_r, size_c, normalize
+			:func:`same_size`
+			:func:`size_r`
+			:func:`size_c`
+			:func:`normalize`
 		"""
 		cdef Matrix gap
 		cdef int i
@@ -3431,7 +3499,10 @@ cdef class Matrix(object):
 
 			See Also
 			--------
-			size_r,	size_c,	set_ij,	get_ij
+			:func:`size_r`
+			:func:`size_c`
+			:func:`set_ij`
+			:func:`get_ij`
 		"""
 		for i in range(0,self.size_r()):
 			for j in range(0,self.size_c()):
@@ -3474,7 +3545,9 @@ cdef class Matrix(object):
 
 			See Also
 			--------
-			clone, get_coef, map
+			:func:`clone`
+			:func:`get_coef`
+			:func:`map`
 		"""
 		cdef Matrix res
 		res=self.clone()
@@ -3529,7 +3602,10 @@ cdef class Matrix(object):
 
 			See Also
 			--------
-			square,	size_r,	size_c,	zeros
+			:func:`square`
+			:func:`size_r`
+			:func:`size_c`
+			:func:`zeros`
 		"""
 		# Realize the UX=B resolution where U is an upper matrix
 		def summ(A,X,i,N):
@@ -3595,7 +3671,10 @@ cdef class Matrix(object):
 
 			See Also
 			--------
-			square,	size_r,	size_c,	zeros
+			:func:`square`
+			:func:`size_r`
+			:func:`size_c`
+			:func:`zeros`
 		"""
 		# Realize the LX=B resolution where L is a lower matrix
 		def summ(A,X,i):
@@ -3696,7 +3775,11 @@ cdef class Matrix(object):
 
 			See Also
 			--------
-			count_zero, replace_zeros, square, size_r, unit, zeros, get_ij
+			:func:`count_zero`
+			:func:`replace_zeros`
+			:func:`square`
+			:func:`size_r`
+			:func:`get_ij`
 		"""
 		if(self.count_zero()>=1):
 			self.replace_zeros()
@@ -3754,7 +3837,9 @@ cdef class Matrix(object):
 
 			See Also
 			--------
-			LU, size_r, get_ij
+			:func:`LU`
+			:func:`size_r`
+			:func:`get_ij`
 		"""
 	#Calcul du determinant de a (= det L*det U)
 
@@ -3789,7 +3874,9 @@ cdef class Matrix(object):
 
 			See Also
 			--------
-			transpose, unit, size_r, size_c
+			:func:`transpose`
+			:func:`size_r`
+			:func:`size_c`
 		"""
 		cdef bint res 
 
@@ -3827,7 +3914,9 @@ cdef class Matrix(object):
 
 			See Also
 			--------
-			size_c,	size_r,	get_ij
+			:func:`size_c`
+			:func:`size_r`
+			:func:`get_ij`
 		"""
 		cdef bint res 
 		cdef int i
@@ -3864,7 +3953,11 @@ cdef class Matrix(object):
 
 			See Also
 			--------
-			size_r,	size_c,	transpose,	set_ij,	get_ij
+			:func:`size_r`
+			:func:`size_c`
+			:func:`transpose`
+			:func:`set_ij`
+			:func:`get_ij`
 		"""
 		cdef Matrix tmp 
 		cdef bint res 
@@ -3903,7 +3996,8 @@ cdef class Matrix(object):
 
 			See Also
 			--------
-			square, det
+			:func:`square`
+			:func:`det`
 		"""
 		cdef bint res
 
@@ -3933,7 +4027,9 @@ cdef class Matrix(object):
 
 			See Also
 			--------
-			size_r, size_c, get_ij
+			:func:`size_r`
+			:func:`size_c`
+			:func:`get_ij`
 		"""
 		cdef int counter 
 		cdef int i
@@ -3970,7 +4066,9 @@ cdef class Matrix(object):
 
 			See Also
 			--------
-			count_zero, size_r, size_c
+			:func:`count_zero`
+			:func:`size_r`
+			:func:`size_c`
 		"""
 		cdef int count 
 
@@ -4061,7 +4159,9 @@ cdef class Matrix(object):
 
 			See Also
 			--------
-			size_r,	size_c,	get_ij
+			:func:`size_r`
+			:func:`size_c`
+			:func:`get_ij`
 		"""
 		cdef int res 
 		cdef int i
@@ -4115,7 +4215,10 @@ cdef class Matrix(object):
 
 			See Also
 			--------
-			isalpha, size_r, size_c, ind_2_ij, set_ij
+			:func:`size_r`
+			:func:`size_c`
+			:func:`ind_2_ij`
+			:func:`set_ij`
 		"""
 		cdef bint done
 		cdef int i
@@ -4205,7 +4308,10 @@ cdef class Matrix(object):
 
 			See Also
 			--------
-			size_r, size_c, get_ij, pack
+			:func:`size_r`
+			:func:`size_c`
+			:func:`get_ij`
+			:func:`pack`
 		"""
 		cdef str to_write
 		cdef int i
@@ -4236,7 +4342,8 @@ cdef class Matrix(object):
 
 			See Also
 			--------
-			write_in_file, read_from_file
+			:func:`write_in_file`
+			:func:`read_from_file`
 		"""
 		self.write_in_file("tmp")
 		self.read_from_file("tmp")
@@ -4272,7 +4379,7 @@ cpdef Matrix unit(int size):
 
 		See Also
 		--------
-		set_ij
+		:func:`set_ij`
 	"""
 	cdef Matrix res 
 	cdef int i 
@@ -4338,7 +4445,7 @@ cpdef Matrix rand_perm(int size):
 
 		See Also
 		--------
-		set_ij
+		:func:`set_ij`
 	"""
 	cdef Matrix res 
 	cdef list done 
@@ -4381,7 +4488,7 @@ cpdef Matrix rand(int size):
 
 		See Also
 		--------
-		set_ij
+		:func:`set_ij`
 	"""
 	cdef Matrix res 
 	cdef int i 
@@ -4451,7 +4558,7 @@ cpdef list Pascal_triangle(int dim):
 
 		See Also
 		--------
-		mirror
+		:func:`mirror`
 	"""
 	cdef list ret 
 	cdef list tmp
@@ -4534,7 +4641,13 @@ cpdef Matrix gaussian(int size,int mode,int norm):
 
 		See Also
 		--------
-		Pascal_triangle, set_ij, get_coef, size_r, size_c, set_ij, get_ij
+		:func:`Pascal_triangle`
+		:func:`set_ij`
+		:func:`get_coef`
+		:func:`size_r`
+		:func:`size_c`
+		:func:`set_ij`
+		:func:`get_ij`
 	"""
 	cdef list base 
 	cdef int ind
@@ -4596,7 +4709,10 @@ cpdef Laplacian_mean(int order):
 
 		See Also
 		--------
-		set_ij, size_r, size_c, get_ij
+		:func:`set_ij`
+		:func:`size_r`
+		:func:`size_c`
+		:func:`get_ij`
 	"""
 	# Compute the center matrix of a pseudo-Laplacian filter
 	cdef list Base 
@@ -4665,7 +4781,9 @@ cpdef Matrix mean_filter(int size,int mode,int order=1):
 
 		See Also
 		--------
-		Laplacian_mean, set_ij, insert_sub_matrix, abs
+		:func:`set_ij`
+		:func:`insert_sub_matrix`
+		:func:`abs`
 	"""
 	cdef list init_sub
 	cdef double init_value

@@ -1,16 +1,28 @@
-# Matrix_lib-v2.0
+# Python Matrix Module #
 
-Updated Matrix Library
 
-A full matrix engine library wrote in Cython / Python 3.8
-Clone to your local disk and compile using :
+Utilitary scripts wrote in Python
 
-python setup.py build_ext --inplace
-
-Documentation is avaible at : https://drive.google.com/drive/folders/1IrVBpC4xbdME7-61y-o74xJhAeYiBCqy?usp=sharing
+# Matrix module
 
 Author : CABOS Matthieu
 
-Date : 30/06/2020
+Date   : 30/06/2020
 
-Support at : matthieu.cabos@tse-fr.eu
+This repository contain my current works in progress :
+The cmatrix.pyx is the optimised version of the matrix.py library containing all standard
+algebrica opeations on matrix and usefull utils (save and load, quick access, quick programming, etc...)
+ To compile it write in the command prompt :
+ 
+ python setup.py build_ext --inplace
+ 
+ The help documentation may be found using index.html
+ 
+I've been working on an high-performance matrix code to rule many of standard calculation
+on the Anubis calculator (Graph transistion matrix, System resolution, etc) from Lenovo.
+
+The library is fully operationnal on CentOS Unix-based system
+
+Please to send failure reports
+
+support at : matthieu.cabos@tse-fr.eu
