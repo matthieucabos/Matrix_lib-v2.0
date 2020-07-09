@@ -17,4 +17,4 @@ setup(
 
 # python3 setup.py build_ext --inplace
 #num_threads=os.cpu_count()
-#for i in prange(100, nogil=True, num_threads=4):
+#for i in prange(100, nogil=True, num_threads):
