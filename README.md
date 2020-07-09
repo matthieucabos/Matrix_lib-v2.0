@@ -9,12 +9,18 @@ Author : CABOS Matthieu
 
 Date   : 30/06/2020
 
-This repository contain my current works in progress :
-The cmatrix.pyx is the optimised version of the matrix.py library containing all standard
+This repository contain my last work :
+The cmatrix.pyx is the optimised version of the matrix.py library containing all standar
 algebrica opeations on matrix and usefull utils (save and load, quick access, quick programming, etc...)
- To compile it write in the command prompt :
+It contains also a sequence recognition algorithm from raw data list (found as standalone methods of the module).
+
+To compile it write in the command prompt :
  
  python setup.py build_ext --inplace
+ 
+ Once compiled, load the module in python since the current directory with :
+ 
+ from cmatrix import *
  
  The help documentation may be found using index.html or with the associated download link
  You have to generate it using the command:
