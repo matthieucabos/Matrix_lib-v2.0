@@ -7,7 +7,7 @@ Utilitary scripts wrote in Python
 
 Author : CABOS Matthieu
 
-Date   : 30/06/2020
+Date   : 09/07/2020
 
 Organization : INRA-CNRS
 
