@@ -16,15 +16,17 @@ algebrica opeations on matrix and usefull utils (save and load, quick access, qu
  
  python setup.py build_ext --inplace
  
- The help documentation may be found using index.html
+ The help documentation may be found using index.html or with the associated download link
  You have to generate it using the command:
  
  make html
  
-I've been working on an high-performance matrix code to rule many of standard calculation
-on the Anubis calculator (Graph transistion matrix, System resolution, etc) from Lenovo.
+ or download it at :  https://drive.google.com/file/d/1Qd9Dew-D46k1ZAu1qyLlGMLjzUaCiCcl/view?usp=sharing
+ 
+I've been working on an high-performance matrix code to rule standard matrix computation
+on the Anubis calculator from Lenovo (Graph transistion matrix, System resolution, etc).
 
-The library is fully operationnal on CentOS Unix-based system
+The library is fully operationnal on CentOS Unix-based system, tested and approved for Windows, Linux, and MacOS
 
 Please to send failure reports
 
