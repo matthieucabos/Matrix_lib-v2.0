@@ -3,6 +3,7 @@ from matrix import *
 # Matrix utility reader from raw files
 # Accepted files are .txt, raw (decimal values), .pdb LibreOffice Tab
 
+__author__="CABOS Matthieu"
 
 # Assert the line is empty
 def isempty(line):
