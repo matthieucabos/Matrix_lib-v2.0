@@ -9,6 +9,27 @@ Author : CABOS Matthieu
 
 Date   : 30/06/2020
 
+Organization : INRA-CNRS
+
+Prerequires
+-----------
+python 3.8
+with associated libraries :
+ * *numpy*
+ * *random*
+ * *cython*
+ * *sphinx*
+ * *numpydoc*
+ * *sphinx-autoapi*
+ * *sphinx-automodapi*
+ * *sphinx-rtd-theme*
+ 
+ The prerequires could be installed from the install_prerequires.sh and install_prerequires.bat 
+ (depending of system : .sh is the linux style script and .bat is the windows style script)
+ 
+Installation
+------------
+
 This repository contain my last work :
 The cmatrix.pyx is the optimised version of the matrix.py library containing all standar
 algebrica opeations on matrix and usefull utils (save and load, quick access, quick programming, etc...)
@@ -22,6 +43,9 @@ To compile it write in the command prompt :
  
  from cmatrix import *
  
+ Documentation
+ -------------
+ 
  The help documentation may be found using index.html or with the associated download link
  You have to generate it using the command:
  
@@ -33,6 +57,9 @@ I've been working on an high-performance matrix code to rule standard matrix com
 on the Anubis calculator from Lenovo (Graph transistion matrix, System resolution, etc).
 
 The library is fully operationnal on CentOS Unix-based system, tested and approved for Windows, Linux, and MacOS
+
+Support
+-------
 
 Please to send failure reports
 
