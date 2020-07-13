@@ -46,7 +46,8 @@ To compile it write in the command prompt :
  Documentation
  -------------
  
- The help documentation may be found using index.html or with the associated download link
+ The help documentation may be found using index.html or with the associated download link.
+ You can use the Dependencies graph as Documentation summary for a better Understanding of the document.
  You have to generate it using the command:
  
  make html
