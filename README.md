@@ -38,11 +38,11 @@ It contains also a sequence recognition algorithm from raw data list (found as s
 
 To compile it write in the command prompt :
  
- python setup.py build_ext --inplace
+ **python setup.py build_ext --inplace**
  
  Once compiled, load the module in python since the current directory with :
  
- from cmatrix import *
+ **from cmatrix import ***
  
  Documentation
  -------------
@@ -52,11 +52,11 @@ To compile it write in the command prompt :
  You can use the Dependencies graph as Documentation summary for a better Understanding of the document.
  You have to generate it using the command:
  
- .\make html      (Windows users)
+ **.\make html**     (Windows users)
 
 or
 
-make html         (UNIX users)
+**make html**         (UNIX users)
 
  or download it at :  https://drive.google.com/file/d/1FrYlPV3HUc3P8KnVFtgXF4iX8yuBBDXZ/view?usp=sharing
  
