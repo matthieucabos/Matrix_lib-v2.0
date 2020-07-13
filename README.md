@@ -51,8 +51,12 @@ To compile it write in the command prompt :
  You can use the Dependencies graph as Documentation summary for a better Understanding of the document.
  You have to generate it using the command:
  
- make html
- 
+ .\make html      (Windows users)
+
+or
+
+make html         (UNIX users)
+
  or download it at :  https://drive.google.com/file/d/1FrYlPV3HUc3P8KnVFtgXF4iX8yuBBDXZ/view?usp=sharing
  
 I've been working on an high-performance matrix code to rule standard matrix computation
