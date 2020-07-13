@@ -13,7 +13,8 @@ Organization : INRA-CNRS
 
 Prerequires
 -----------
-python 3.8
+Install Python 3.8 from https://www.python.org/
+
 with associated libraries :
  * *numpy*
  * *random*
