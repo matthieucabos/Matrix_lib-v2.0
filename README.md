@@ -42,7 +42,7 @@ To compile it write in the command prompt :
  
  Once compiled, load the module in python since the current directory with :
  
- **from cmatrix import * **
+ **from cmatrix import \* **
  
  Documentation
  -------------
