@@ -1,6 +1,9 @@
 from matrix import *
 
 # Matrix utility reader from raw files
+# To use it : get_Matrix take a absolute path as argument. 
+# The path contain the raw data matrix to read. 
+# The function return the instanciated Matrix Object initialized with correct values
 # Accepted files are .txt, raw (decimal values), .pdb LibreOffice Tab
 
 __author__="CABOS Matthieu"
