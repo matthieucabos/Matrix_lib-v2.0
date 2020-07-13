@@ -568,7 +568,7 @@
     <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #00ff00" points="1062.24,599.999 1072.23,594.993 1069.74,599.994 1072.24,604.993 "/>
   </g>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="998.318" y="580">
-    <tspan x="998.318" y="580">op</tspan>
+    <tspan x="998.318" y="580"><a href="file:.//build/html/Matrix.html?highlight=op#cmatrix.Matrix.op">op</a></tspan>
   </text>
   <g>
     <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #00ff00" x1="1944.83" y1="619.946" x2="1068.52" y2="619.999"/>
