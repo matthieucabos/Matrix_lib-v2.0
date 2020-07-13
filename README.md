@@ -47,12 +47,13 @@ To compile it write in the command prompt :
  -------------
  
  The help documentation may be found using index.html or with the associated download link.
+ 
  You can use the Dependencies graph as Documentation summary for a better Understanding of the document.
  You have to generate it using the command:
  
  make html
  
- or download it at :  https://drive.google.com/file/d/1Qd9Dew-D46k1ZAu1qyLlGMLjzUaCiCcl/view?usp=sharing
+ or download it at :  https://drive.google.com/file/d/1FrYlPV3HUc3P8KnVFtgXF4iX8yuBBDXZ/view?usp=sharing
  
 I've been working on an high-performance matrix code to rule standard matrix computation
 on the Anubis calculator from Lenovo (Graph transistion matrix, System resolution, etc).
