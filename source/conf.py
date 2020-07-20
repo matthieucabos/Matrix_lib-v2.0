@@ -16,8 +16,6 @@
 import sys
 import os
 sys.path.insert(0,os.path.abspath('..'))
-os.system('..\\install_prerequires.sh')
-os.system('..\\install_prerequires.bat')
 
 # -- Project information -----------------------------------------------------
 
