@@ -25,7 +25,7 @@ Install associated libraries :
  * *sphinx-automodapi*
  * *sphinx-rtd-theme*
  
- The librairies prerequired could be installed from the install_prerequires.sh and install_prerequires.bat 
+ The librairies prerequired should be installed from the install_prerequires.sh and install_prerequires.bat 
  (depending of system : .sh is the linux style script and .bat is the windows style script)
  
 Installation
