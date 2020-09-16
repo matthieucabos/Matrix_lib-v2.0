@@ -1,6 +1,5 @@
 cython
 numpy
-random
 sphinx
 numpydoc
 sphinx-autoapi
