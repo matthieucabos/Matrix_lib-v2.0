@@ -16,7 +16,7 @@ Welcome to Matrix's documentation!
    Matrix
 
 .. autosummary::
-	:recursive:
+	.. :recursive:
 
 Indices and tables
 ==================
