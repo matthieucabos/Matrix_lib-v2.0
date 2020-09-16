@@ -9,7 +9,7 @@ The algorithm is working in three steps:
 	* I verifiy and count (if verified) the number of repetition
 
 .. autosummary::
-	:recursive:
+	.. :recursive:
 
 .. autofunction:: cmatrix.count_seq
 .. autofunction:: cmatrix.create_mutants
