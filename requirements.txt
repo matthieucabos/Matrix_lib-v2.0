@@ -1,0 +1,8 @@
+cython
+numpy
+random
+sphinx
+numpydoc
+sphinx-autoapi
+sphinx-automodapi
+sphinx-rtd-theme
