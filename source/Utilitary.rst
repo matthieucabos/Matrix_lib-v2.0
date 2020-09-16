@@ -5,7 +5,7 @@ Here, the utilitary functions definitions and usage.
 
 
 .. autosummary::
-	:recursive:
+	.. :recursive:
 
 .. autofunction:: cmatrix.abs
 .. autofunction:: cmatrix.complement
