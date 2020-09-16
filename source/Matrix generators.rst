@@ -4,7 +4,7 @@ Matrix generators
 Here the matrix generators with automatically memory allocation.
 
 .. autosummary::
-	:recursive:
+	.. :recursive:
 
 
 .. autofunction:: cmatrix.Laplacian_mean
