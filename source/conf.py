@@ -33,6 +33,7 @@ release = '2.0'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 autosummary_generate = True
+autosummary_imported_members = True
 extensions = ['sphinx.ext.autosectionlabel','numpydoc','sphinx.ext.napoleon','sphinx.ext.autodoc','sphinx.ext.intersphinx']
 numpydoc_show_class_members = False
 # Add any paths that contain templates here, relative to this directory.
