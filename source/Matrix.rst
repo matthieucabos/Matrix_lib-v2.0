@@ -8,7 +8,6 @@ Here the main matrix class engine definition.
 
 .. autosummary:
 	:toctree: _autosummary
-
-	    {% for function in functions %}
+	{% for function in functions %}
 		{{ function }}
-	    {% endfor %}
+	{% endfor %}
