@@ -7,6 +7,4 @@ Here the main matrix class engine definition.
 	:members:
 	:private-members:
 
-.. currentmodule:: cmatrix
-
 .. autosummary::
