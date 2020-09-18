@@ -7,3 +7,4 @@ Here the main matrix class engine definition.
 	:members:
 
 .. autosummary:: 
+	:members:
