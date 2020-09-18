@@ -5,3 +5,4 @@ numpydoc
 sphinx-autoapi
 sphinx-automodapi
 sphinx-rtd-theme
+master_doc = 'index'
