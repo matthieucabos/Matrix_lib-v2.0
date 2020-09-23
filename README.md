@@ -7,7 +7,7 @@ Utilitary scripts wrote in Python
 
 Author : CABOS Matthieu
 
-Date   : 30/06/2020
+Release Date   : 23/09/2020
 
 This repository contain my current works in progress.
 
