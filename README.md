@@ -54,15 +54,16 @@ Welcome in the CMatrix Module. This module, written with python and Cython, is a
 	* **Signals**
 	* **Float and Int matrix**
 	* **etc**
+		
+	It contains differents kind of function :
+
+	* Primary utility functions as Ribbon converter, usual operators, ...
+	* Middle level functions as Matrix extraction/recognition, usuals algebrica operations, ...
+	* Hard level functions as Strassen algorithm, Convolutions, System resolution, Tensorial operations, ...
 
 To read a matrix from an external file, you can use the Matrix Getter py file into the main github repository to extract and use any matrix with this lib.
-		It contains differents kind of function :
 
-* Primary utility functions as Ribbon converter, usual operators, ...
-* Middle level functions as Matrix extraction/recognition, usuals algebrica operations, ...
-* Hard level functions as Strassen algorithm, Convolutions, System resolution, Tensorial operations, ...
-
-The full description of each part is avaible on the left tree entries.
+The full description of each part is avaible on the left tree entries of the documentation.
 All the functions are documented and a small example will be used as an Usage Guide.
 
 Setup
