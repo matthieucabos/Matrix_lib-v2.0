@@ -69,7 +69,7 @@ All the functions are documented and a small example will be used as an Usage Gu
 Setup
 -----
 
-Here is my new version of the matrix library including sequence recognition algorithm as compressor. To setup manually :
+To setup manually :
 
 * Install all prerequires as following :
 
