@@ -7,66 +7,21 @@ Utilitary scripts wrote in Python
 
 Author : CABOS Matthieu
 
-Date   : 09/07/2020
+Date   : 30/06/2020
 
-Organization : INRAE-CNRS
-
-Prerequires
------------
-Install Python 3.8 from https://www.python.org/
-
-Install associated libraries :
- * *numpy*
- * *random*
- * *cython*
- * *sphinx*
- * *numpydoc*
- * *sphinx-autoapi*
- * *sphinx-automodapi*
- * *sphinx-rtd-theme*
- 
- The librairies prerequired should be installed from the install_prerequires.sh and install_prerequires.bat 
- (depending of system : .sh is the linux style script and .bat is the windows style script)
- 
-Installation
-------------
-
-This repository contain my last work :
-The cmatrix.pyx is the optimised version of the matrix.py library containing all standar
+This repository contain my current works in progress :
+The cmatrix.pyx is the optimised version of the matrix.py library containing all standard
 algebrica opeations on matrix and usefull utils (save and load, quick access, quick programming, etc...)
-It contains also a sequence recognition algorithm from raw data list (found as standalone methods of the module).
+ To compile it write in the command prompt :
+ 
+ python setup.py build_ext --inplace
+ 
+ The help documentation may be found using index.html
+ 
+I've been working on an high-performance matrix code to rule many of standard calculation
+on the Anubis calculator (Graph transistion matrix, System resolution, etc) from Lenovo.
 
-To compile it write in the command prompt :
- 
- **python setup.py build_ext --inplace**
- 
- Once compiled, load the module in python since the current directory with :
- 
- **from cmatrix import \***
- 
- Documentation
- -------------
- 
- The help documentation may be found using index.html or with the associated download link.
- 
- You can use the Dependencies graph as Documentation summary for a better Understanding of the document.
- You have to generate it using the command:
- 
- **.\make html**     (Windows users)
-
-or
-
-**make html**         (UNIX users)
-
- or read it at : https://matrix-lib-v20.readthedocs.io/en/latest/
- 
-I've been working on an high-performance matrix code to rule standard matrix computation
-on the Anubis calculator from Lenovo (Graph transistion matrix, System resolution, etc).
-
-The library is fully operationnal on CentOS Unix-based system, tested and approved for Windows, Linux, and MacOS
-
-Support
--------
+The library is fully operationnal on CentOS Unix-based system
 
 Please to send failure reports
 

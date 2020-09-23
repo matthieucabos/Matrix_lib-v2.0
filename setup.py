@@ -1,6 +1,6 @@
 import os
-os.system('.\\install_prerequires.sh')
-os.system('.\\install_prerequires.bat')
+os.system('./install_prerequires.sh')
+os.system('./install_prerequires.bat')
 
 from distutils.core import setup
 from distutils.extension import Extension

@@ -727,12 +727,19 @@ cdef class Matrix(object):
 	cdef list data
 	cdef double coef
 	
-	def __cinit__(self,int sr,int sc,double init_value=0):
+	def __cinit__(self,int sr,int sc,init_value=0):
 		
 		self.size_raw=sr
 		self.size_column=sc
-		self.data=[init_value]*sr*sc
-		self.coef=0.0
+		if(isinstance(init_value,int)):
+			self.data=[init_value]*sr*sc
+			self.coef=0.0
+		elif(isinstance(init_value,list)):
+			self.data=[]
+			print("here")
+			for i in range(len(init_value)):
+				self.data.append(init_value[i])
+
 
 	def __dealloc__(self):
 		global x
