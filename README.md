@@ -22,7 +22,7 @@ Welcome in the CMatrix Module. This module, written with python and Cython, is a
 * **A Matrix Generators Section**
 		The Matrix Generators section permit to generate automatically standard algebrica matrix as :
 
- * **A Laplacian mean Matrx**
+ 	* **A Laplacian mean Matrx**
 	* **A Gaussian mean Matrix**
 	* **A Mean filter Matrix**
 	* **A Random Permutation Matrix**
