@@ -3,18 +3,17 @@ Utilitary
 
 Here, the utilitary functions definitions and usage.
 
-
 .. autosummary::
-	.. :recursive:
+	:toctree: Utilitary
 
-.. autofunction:: cmatrix.abs
-.. autofunction:: cmatrix.complement
-.. autofunction:: cmatrix.complement_at
-.. autofunction:: cmatrix.isalpha
-.. autofunction:: cmatrix.mirror
-.. autofunction:: cmatrix.Pascal_triangle
-.. autofunction:: cmatrix.reverse
-.. autofunction:: cmatrix.swap 
-.. autofunction:: cmatrix.switch
-.. autofunction:: cmatrix.timeit
-.. autofunction:: cmatrix.tri
+	cmatrix.abs
+	cmatrix.complement
+	cmatrix.complement_at
+	cmatrix.isalpha
+	cmatrix.mirror
+	cmatrix.Pascal_triangle
+	cmatrix.reverse
+	cmatrix.swap 
+	cmatrix.switch
+	cmatrix.timeit
+	cmatrix.tri

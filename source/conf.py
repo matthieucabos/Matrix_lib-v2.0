@@ -17,6 +17,7 @@ import sys
 import os
 sys.path.insert(0,os.path.abspath('..'))
 
+
 # -- Project information -----------------------------------------------------
 
 project = 'Matrix'
@@ -32,10 +33,12 @@ release = '2.0'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-autosummary_generate = True
-autosummary_imported_members = True
-extensions = ['sphinx.ext.autosectionlabel','numpydoc','sphinx.ext.napoleon','sphinx.ext.autodoc','sphinx.ext.intersphinx']
+
+extensions = ['sphinx.ext.autosectionlabel','numpydoc','sphinx.ext.napoleon','sphinx.ext.autodoc','sphinx.ext.intersphinx','sphinx.ext.autosummary']
 numpydoc_show_class_members = False
+imported_members=True
+autosummary_generate = True
+master_doc = 'index'
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
 

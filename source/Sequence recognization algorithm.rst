@@ -9,15 +9,15 @@ The algorithm is working in three steps:
 	* I verifiy and count (if verified) the number of repetition
 
 .. autosummary::
-	.. :recursive:
+	:toctree: Sequence recognition algorithm
 
-.. autofunction:: cmatrix.count_seq
-.. autofunction:: cmatrix.create_mutants
-.. autofunction:: cmatrix.cut
-.. autofunction:: cmatrix.find_invariant
-.. autofunction:: cmatrix.find_max
-.. autofunction:: cmatrix.find_mul_seq
-.. autofunction:: cmatrix.find_seq
-.. autofunction:: cmatrix.find_seq_in_list
-.. autofunction:: cmatrix.split_data
-.. autofunction:: cmatrix.split_number
+	cmatrix.count_seq
+	cmatrix.create_mutants
+	cmatrix.cut
+	cmatrix.find_invariant
+	cmatrix.find_max
+	cmatrix.find_mul_seq
+	cmatrix.find_seq
+	cmatrix.find_seq_in_list
+	cmatrix.split_data
+	cmatrix.split_number

@@ -4,12 +4,11 @@ Matrix generators
 Here the matrix generators with automatically memory allocation.
 
 .. autosummary::
-	.. :recursive:
+	:toctree: Matrix generators
 
-
-.. autofunction:: cmatrix.Laplacian_mean
-.. autofunction:: cmatrix.gaussian
-.. autofunction:: cmatrix.mean_filter
-.. autofunction:: cmatrix.rand_perm
-.. autofunction:: cmatrix.unit
-.. autofunction:: cmatrix.zeros
+	cmatrix.Laplacian_mean Laplacian
+	cmatrix.gaussian
+	cmatrix.mean_filter
+	cmatrix.rand_perm
+	cmatrix.unit
+	cmatrix.zeros
