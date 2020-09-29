@@ -5,9 +5,11 @@ Utilitary scripts wrote in Python
 
 # Matrix module
 
-Author : CABOS Matthieu
+**Author** : *CABOS Matthieu*
 
-Release Date   : 23/09/2020
+**Release Date**   : *23/09/2020*
+
+**Organization** : **INRAE-CNRS**
 
 This repository contain my optimized Python Matrix lib..
 
