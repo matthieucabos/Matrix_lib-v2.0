@@ -53,35 +53,35 @@
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="880" y="-820" width="120" height="60"/>
   </g>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="930.375" y="-785.187">
-    <tspan x="930.375" y="-785.187"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Sequence%20recognition%20algorithm/cmatrix.cut.html">Cut</a></tspan>
+    <tspan x="930.375" y="-785.187"><a href="file:../Sequence recognition algorithm/cmatrix.cut.html">Cut</a></tspan>
     <tspan x="930.375" y="-769.187"></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="725.063" y="-685">
-    <tspan x="725.063" y="-685"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Sequence%20recognition%20algorithm/cmatrix.split_data.html">Split_data</a></tspan>
+    <tspan x="725.063" y="-685"><a href="file:../Sequence recognition algorithm/cmatrix.split_data.html">Split_data</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="911.063" y="-687">
-    <tspan x="911.063" y="-687"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Sequence%20recognition%20algorithm/cmatrix.find_seq.html">find_seq</a></tspan>
+    <tspan x="911.063" y="-687"><a href="file:../Sequence recognition algorithm/cmatrix.find_seq.html">find_seq</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1107.03" y="-450">
-    <tspan x="1107.03" y="-450"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Sequence%20recognition%20algorithm/cmatrix.find_max.html">find_max</a></tspan>
+    <tspan x="1107.03" y="-450"><a href="file:../Sequence recognition algorithm/cmatrix.find_max.html">find_max</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="715.36" y="-567.703">
-    <tspan x="715.36" y="-567.703"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Sequence%20recognition%20algorithm/cmatrix.create_mutants.html">create_mutants</a></tspan>
+    <tspan x="715.36" y="-567.703"><a href="file:../Sequence recognition algorithm/cmatrix.create_mutants.html">create_mutants</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="902.392" y="-568.703">
     <tspan x="902.392" y="-568.703">suppr_double</tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="734.063" y="-450">
-    <tspan x="734.063" y="-450"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Sequence%20recognition%20algorithm/cmatrix.count_seq.html">count_seq</a></tspan>
+    <tspan x="734.063" y="-450"><a href="file:../Sequence recognition algorithm/cmatrix.count_seq.html">count_seq</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1094.06" y="-570">
-    <tspan x="1094.06" y="-570"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Sequence%20recognition%20algorithm/cmatrix.find_mul_seq.html">find_mul_seq</a></tspan>
+    <tspan x="1094.06" y="-570"><a href="file:../Sequence recognition algorithm/cmatrix.find_mul_seq.html">find_mul_seq</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="902.392" y="-446.11">
-    <tspan x="902.392" y="-446.11"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Sequence%20recognition%20algorithm/cmatrix.find_invariant.html">find_invariant</a></tspan>
+    <tspan x="902.392" y="-446.11"><a href="file:../Sequence recognition algorithm/cmatrix.find_invariant.html">find_invariant</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1081.1" y="-685.297">
-    <tspan x="1081.1" y="-685.297"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Sequence%20recognition%20algorithm/cmatrix.find_seq_in_list.html">find_seq_in_list</a></tspan>
+    <tspan x="1081.1" y="-685.297"><a href="file:../Sequence recognition algorithm/cmatrix.find_seq_in_list.html">find_seq_in_list</a></tspan>
   </text>
   <g>
     <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1064.61" y1="-689.742" x2="1009.74" y2="-689.961"/>
@@ -169,32 +169,32 @@
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1060" y="38.1928" width="120" height="60"/>
   </g>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="740.371" y="-270">
-    <tspan x="740.371" y="-270"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Utilitary/cmatrix.switch.html">switch</a>
+    <tspan x="740.371" y="-270"><a href="file:../Utilitary/cmatrix.switch.html">switch</a>
   </tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="919.28" y="-268.909">
-    <tspan x="919.28" y="-268.909"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Utilitary/cmatrix.isalpha.html">isalpha</a></tspan>
+    <tspan x="919.28" y="-268.909"><a href="file:../Utilitary/cmatrix.isalpha.html">isalpha</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1098.19" y="-270">
-    <tspan x="1098.19" y="-270"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Utilitary/cmatrix.timeit.html">timeit</a></tspan>
+    <tspan x="1098.19" y="-270"><a href="file:../Utilitary/cmatrix.timeit.html">timeit</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="739.28" y="-150">
-    <tspan x="739.28" y="-150"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Utilitary/cmatrix.reverse.html">reverse</a></tspan>
+    <tspan x="739.28" y="-150"><a href="file:../Utilitary.html?highlight=reverse#cmatrix.reverse">reverse</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="896.38" y="-150">
-    <tspan x="896.38" y="-150"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Utilitary/cmatrix.complement_at.html">complement_at</a></tspan>
+    <tspan x="896.38" y="-150"><a href="file:../Utilitary/cmatrix.complement_at.html">complement_at</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1109.09" y="-150">
-    <tspan x="1109.09" y="-150"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Utilitary/cmatrix.abs.html">abs</a></tspan>
+    <tspan x="1109.09" y="-150"><a href="file:../Utilitary/cmatrix.abs.html">abs</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="727.285" y="-28.9095">
-    <tspan x="727.285" y="-28.9095"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Sequence%20recognition%20algorithm/cmatrix.split_number.html">split_number</a></tspan>
+    <tspan x="727.285" y="-28.9095"><a href="file:../Sequence recognition algorithm/cmatrix.split_number.html">split_number</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="907.285" y="-30">
-    <tspan x="907.285" y="-30"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Utilitary/cmatrix.complement.html">complement</a></tspan>
+    <tspan x="907.285" y="-30"><a href="file:../Utilitary/cmatrix.complement.html">complement</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1109.09" y="-30">
-    <tspan x="1109.09" y="-30"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Utilitary/cmatrix.swap.html">swap</a></tspan>
+    <tspan x="1109.09" y="-30"><a href="file:../Utilitary/cmatrix.swap.html">swap</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1120" y="68.1928">
     <tspan x="1120" y="68.1928">tri</tspan>
@@ -236,7 +236,7 @@
     <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 705.376 -29.8324 C 705.376,-27.3324 702.876,-24.8324 700.376,-24.8324 C 697.876,-24.8324 695.376,-27.3324 695.376,-29.8324 C 695.376,-32.3324 697.876,-34.8324 700.376,-34.8324 C 702.876,-34.8324 705.376,-32.3324 705.376,-29.8324"/>
   </g>
   <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="1260" y="-367.506">
-    <tspan x="1260" y="-367.506"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix.html">Class Matrix</a></tspan>
+    <tspan x="1260" y="-367.506"><a href="file:../Matrix.html">Class Matrix</a></tspan>
   </text>
   <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 4; stroke: #7f7f7f" x1="0" y1="-400" x2="2760" y2="-400"/>
   <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 4; stroke: #7f7f7f" x1="1220" y1="-421.807" x2="1220" y2="118.193"/>
@@ -343,31 +343,31 @@
     <tspan x="1307.03" y="-270">cinit</tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1487.03" y="-270">
-    <tspan x="1487.03" y="-270"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.ij_2_ind.html">ij_2_ind</a></tspan>
+    <tspan x="1487.03" y="-270"><a href="file:../Matrix/cmatrix.Matrix.ij_2_ind.html">ij_2_ind</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1654.06" y="-270">
-    <tspan x="1654.06" y="-270"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.ind_2_ij.html">ind_2_ij</a></tspan>
+    <tspan x="1654.06" y="-270"><a href="file:../Matrix/cmatrix.Matrix.ind_2_ij.html">ind_2_ij</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1847.03" y="-270">
-    <tspan x="1847.03" y="-270"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.size_r.html">size_r</a></tspan>
+    <tspan x="1847.03" y="-270"><a href="file:../Matrix/cmatrix.Matrix.size_r.html">size_r</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="2027.03" y="-270">
-    <tspan x="2027.03" y="-270"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.size_c.html">size_c</a></tspan>
+    <tspan x="2027.03" y="-270"><a href="file:../Matrix/cmatrix.Matrix.size_c.html">size_c</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1487.03" y="-150">
-    <tspan x="1487.03" y="-150"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.get_ij.html">get_ij</a></tspan>
+    <tspan x="1487.03" y="-150"><a href="file:../Matrix/cmatrix.Matrix.get_ij.html">get_ij</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1487.03" y="-30">
-    <tspan x="1487.03" y="-30"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.set_ij.html">set_ij</a></tspan>
+    <tspan x="1487.03" y="-30"><a href="file:../Matrix/cmatrix.Matrix.set_ij.html">set_ij</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1654.06" y="-150">
-    <tspan x="1654.06" y="-150"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.same_size.html">same_size</a></tspan>
+    <tspan x="1654.06" y="-150"><a href="file:../Matrix/cmatrix.Matrix.same_size.html">same_size</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1641.1" y="-30">
-    <tspan x="1641.1" y="-30"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.mult_compatible.html">mult_compatible</a></tspan>
+    <tspan x="1641.1" y="-30"><a href="file:../Matrix/cmatrix.Matrix.mult_compatible.html">mult_compatible</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1667.03" y="90">
-    <tspan x="1667.03" y="90"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.Print.html">Print</a></tspan>
+    <tspan x="1667.03" y="90"><a href="file:../Matrix/cmatrix.Matrix.Print.html">Print</a></tspan>
   </text>
   <g>
     <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1860.15,-245.066 1860.15,-220 2020,-220 2020,1920 "/>
@@ -414,7 +414,7 @@
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="880" y="220" width="120" height="60"/>
   </g>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="897.956" y="251.682">
-    <tspan x="897.956" y="251.682"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.find_sub_matrix.html">find_sub_matrix</a></tspan>
+    <tspan x="897.956" y="251.682"><a href="file:../Matrix/cmatrix.Matrix.find_sub_matrix.html">find_sub_matrix</a></tspan>
   </text>
   <g>
     <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="2045.4" y1="219.932" x2="1009.74" y2="219.999"/>
@@ -450,13 +450,13 @@
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1620" y="459.867" width="120" height="60"/>
   </g>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1665.86" y="312.828">
-    <tspan x="1665.86" y="312.828"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.clone.html">clone</a></tspan>
+    <tspan x="1665.86" y="312.828"><a href="file:../Matrix/cmatrix.Matrix.clone.html">clone</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1630.39" y="409.867">
-    <tspan x="1630.39" y="409.867"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.xtract_sub_matrix.html">xtract_sub_matrix</a></tspan>
+    <tspan x="1630.39" y="409.867"><a href="file:../Matrix/cmatrix.Matrix.xtract_sub_matrix.html">xtract_sub_matrix</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1630.39" y="489.867">
-    <tspan x="1630.39" y="489.867"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.insert_sub_matrix.html">insert_sub_matrix</a></tspan>
+    <tspan x="1630.39" y="489.867"><a href="file:../Matrix/cmatrix.Matrix.insert_sub_matrix.html">insert_sub_matrix</a></tspan>
   </text>
   <g>
     <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #00ff00" x1="1945.58" y1="279.072" x2="1749.74" y2="279.956"/>
@@ -568,7 +568,7 @@
     <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #00ff00" points="1062.24,599.999 1072.23,594.993 1069.74,599.994 1072.24,604.993 "/>
   </g>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="998.318" y="580">
-    <tspan x="998.318" y="580"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.op.html">op</a></tspan>
+    <tspan x="998.318" y="580"><a href="file:../Matrix/cmatrix.Matrix.op.html">op</a></tspan>
   </text>
   <g>
     <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #00ff00" x1="1944.83" y1="619.946" x2="1068.52" y2="619.999"/>
@@ -593,10 +593,10 @@
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="940" y="780" width="120" height="60"/>
   </g>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="978.137" y="711.682">
-    <tspan x="978.137" y="711.682"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.transpose.html">transpose</a></tspan>
+    <tspan x="978.137" y="711.682"><a href="file:../Matrix/cmatrix.Matrix.transpose.html">transpose</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="981.501" y="810">
-    <tspan x="981.501" y="810"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.permut.html">permut</a></tspan>
+    <tspan x="981.501" y="810"><a href="file:../Matrix/cmatrix.Matrix.permut.html">permut</a></tspan>
   </text>
   <g>
     <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #00ff00" x1="1925.32" y1="720.507" x2="1069.74" y2="720.006"/>
@@ -705,52 +705,52 @@
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1100" y="1767.27" width="100" height="40"/>
   </g>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1124.06" y="887.269">
-    <tspan x="1124.06" y="887.269"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Add.html">__add__</a></tspan>
+    <tspan x="1124.06" y="887.269"><a href="file:../Add.html">__add__</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1124.06" y="947.269">
-    <tspan x="1124.06" y="947.269"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Sub.html">__sub__</a></tspan>
+    <tspan x="1124.06" y="947.269"><a href="file:../Sub.html">__sub__</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1122.23" y="1008.19">
-    <tspan x="1122.23" y="1008.19"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Mul.html">__mul__</a></tspan>
+    <tspan x="1122.23" y="1008.19"><a href="file:../Mul.html">__mul__</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1117.65" y="1067.27">
-    <tspan x="1117.65" y="1067.27"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Div.html">__truediv__</a></tspan>
+    <tspan x="1117.65" y="1067.27"><a href="file:../Div.html">__truediv__</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1122.23" y="1127.27">
-    <tspan x="1122.23" y="1127.27"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Mod.html">__mod__</a></tspan>
+    <tspan x="1122.23" y="1127.27"><a href="file:../Mod.html">__mod__</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1123.15" y="1187.27">
-    <tspan x="1123.15" y="1187.27"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Neg.html">__neg__</a></tspan>
+    <tspan x="1123.15" y="1187.27"><a href="file:../Neg.html">__neg__</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1124.06" y="1247.27">
-    <tspan x="1124.06" y="1247.27"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Str.html">__str__</a></tspan>
+    <tspan x="1124.06" y="1247.27"><a href="file:../Str.html">__str__</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1124.06" y="1307.27">
-    <tspan x="1124.06" y="1307.27"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Len.html">__len__</a></tspan>
+    <tspan x="1124.06" y="1307.27"><a href="file:../Len.html">__len__</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1114.89" y="1367.27">
-    <tspan x="1114.89" y="1367.27"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Getitem.html">__getitem__</a></tspan>
+    <tspan x="1114.89" y="1367.27"><a href="file:../Getitem.html">__getitem__</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1114.89" y="1427.27">
-    <tspan x="1114.89" y="1427.27"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Setitem.html">__setitem__</a></tspan>
+    <tspan x="1114.89" y="1427.27"><a href="file:../Setitem.html">__setitem__</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1124.98" y="1487.27">
-    <tspan x="1124.98" y="1487.27"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Eq.html">__eq__</a></tspan>
+    <tspan x="1124.98" y="1487.27"><a href="file:../Eq.html">__eq__</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1125.9" y="1547.27">
-    <tspan x="1125.9" y="1547.27"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Ne.html">__ne__</a></tspan>
+    <tspan x="1125.9" y="1547.27"><a href="file:../Ne.html">__ne__</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1126.82" y="1607.27">
-    <tspan x="1126.82" y="1607.27"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.column.html">column</a></tspan>
+    <tspan x="1126.82" y="1607.27"><a href="file:../Matrix/cmatrix.Matrix.column.html">column</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1137.82" y="1667.27">
-    <tspan x="1137.82" y="1667.27"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.line.html">line</a></tspan>
+    <tspan x="1137.82" y="1667.27"><a href="file:../Matrix/cmatrix.Matrix.line.html">line</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1124.06" y="1727.27">
-    <tspan x="1124.06" y="1727.27"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.swap_col.html">swap_col</a></tspan>
+    <tspan x="1124.06" y="1727.27"><a href="file:../Matrix/cmatrix.Matrix.swap_col.html">swap_col</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1124.06" y="1787.27">
-    <tspan x="1124.06" y="1787.27"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.swap_line.html">swap_line</a></tspan>
+    <tspan x="1124.06" y="1787.27"><a href="file:../Matrix/cmatrix.Matrix.swap_line.html">swap_line</a></tspan>
   </text>
   <g>
     <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #00ff00" x1="1925.37" y1="820.506" x2="1069.78" y2="820.005"/>
@@ -1034,19 +1034,19 @@
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1100" y="1827.63" width="100" height="40"/>
   </g>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="831.001" y="942">
-    <tspan x="831.001" y="942"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Le.html">__le__</a></tspan>
+    <tspan x="831.001" y="942"><a href="file:../Le.html">__le__</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="831.001" y="1002">
-    <tspan x="831.001" y="1002"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Ge.html">__ge__</a></tspan>
+    <tspan x="831.001" y="1002"><a href="file:../Ge.html">__ge__</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="831.001" y="1062">
-    <tspan x="831.001" y="1062"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Lt.html">__lt__</a></tspan>
+    <tspan x="831.001" y="1062"><a href="file:../Lt.html">__lt__</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="831.001" y="1122">
-    <tspan x="831.001" y="1122"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Gt.html">__gt__</a></tspan>
+    <tspan x="831.001" y="1122"><a href="file:../Gt.html">__gt__</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="814.002" y="1182">
-    <tspan x="814.002" y="1182"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Contains.html">__contains__</a></tspan>
+    <tspan x="814.002" y="1182"><a href="file:../Contains.html">__contains__</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="829.001" y="1242">
     <tspan x="829.001" y="1242">__bin__</tspan>
@@ -1058,7 +1058,7 @@
     <tspan x="828.001" y="1362">__hex__</tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1121.65" y="1847.63">
-    <tspan x="1121.65" y="1847.63"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.converter.html">converter</a></tspan>
+    <tspan x="1121.65" y="1847.63"><a href="file:../Matrix/cmatrix.Matrix.converter.html">converter</a></tspan>
   </text>
   <g>
     <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #00ff00" points="1104.94,1307.07 1080,1307.07 1080,1140 940,1140 940,940 909.736,940 "/>
@@ -1203,40 +1203,40 @@
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="2560" y="920" width="120" height="60"/>
   </g>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="2149.91" y="312.772">
-    <tspan x="2149.91" y="312.772"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.sqrt.html">sqrt</a></tspan>
+    <tspan x="2149.91" y="312.772"><a href="file:../Matrix/cmatrix.Matrix.sqrt.html">sqrt</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="2142.34" y="411.931">
-    <tspan x="2142.34" y="411.931"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.square.html">square</a></tspan>
+    <tspan x="2142.34" y="411.931"><a href="file:../Matrix/cmatrix.Matrix.square.html">square</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="2138.14" y="512.772">
-    <tspan x="2138.14" y="512.772"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.strassen.html">strassen</a></tspan>
+    <tspan x="2138.14" y="512.772"><a href="file:../Matrix/cmatrix.Matrix.strassen.html">strassen</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="2608.23" y="313.363">
-    <tspan x="2608.23" y="313.363"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix%20generators/cmatrix.unit.html">unit</a></tspan>
+    <tspan x="2608.23" y="313.363"><a href="file:../Matrix generators/cmatrix.unit.html">unit</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="2608.23" y="393.363">
-    <tspan x="2608.23" y="393.363"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix%20generators/cmatrix.zeros.html">zeros</a></tspan>
+    <tspan x="2608.23" y="393.363"><a href="file:../Matrix generators/cmatrix.zeros.html">zeros</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="2593.09" y="473.363">
-    <tspan x="2593.09" y="473.363"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix%20generators/cmatrix.rand_perm.html">rand_perm</a></tspan>
+    <tspan x="2593.09" y="473.363"><a href="file:../Matrix generators/cmatrix.rand_perm.html">rand_perm</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="2608.23" y="553.363">
     <tspan x="2608.23" y="553.363">rand</tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="2601.5" y="633.363">
-    <tspan x="2601.5" y="633.363"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Utilitary/cmatrix.mirror.html">mirror</a></tspan>
+    <tspan x="2601.5" y="633.363"><a href="file:../Utilitary/cmatrix.mirror.html">mirror</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="2577.96" y="713.363">
-    <tspan x="2577.96" y="713.363"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Utilitary/cmatrix.Pascal_triangle.html">Pascal_triangle</a></tspan>
+    <tspan x="2577.96" y="713.363"><a href="file:../Utilitary/cmatrix.Pascal_triangle.html">Pascal_triangle</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="2596.46" y="793.363">
-    <tspan x="2596.46" y="793.363"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix%20generators/cmatrix.gaussian.html">gaussian</a></tspan>
+    <tspan x="2596.46" y="793.363"><a href="file:../Matrix generators/cmatrix.gaussian.html">gaussian</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="2577.96" y="873.363">
-    <tspan x="2577.96" y="873.363"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix%20generators/cmatrix.Laplacian_mean.html">Laplacian_mean</a></tspan>
+    <tspan x="2577.96" y="873.363"><a href="file:../Matrix generators/cmatrix.Laplacian_mean.html">Laplacian_mean</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="2589.73" y="953.363">
-    <tspan x="2589.73" y="953.363"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix%20generators/cmatrix.mean_filter.html">mean_filter</a></tspan>
+    <tspan x="2589.73" y="953.363"><a href="file:../Matrix generators/cmatrix.mean_filter.html">mean_filter</a></tspan>
   </text>
   <g>
     <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #a020f0" points="1680.1,333.925 1680.1,359.696 2079.8,359.696 2079.8,310 2090.26,310 "/>
@@ -1440,16 +1440,16 @@
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="2300" y="900" width="120" height="80"/>
   </g>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="2344.58" y="580">
-    <tspan x="2344.58" y="580"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.UX_B.html">UX_B</a></tspan>
+    <tspan x="2344.58" y="580"><a href="file:../Matrix/cmatrix.Matrix.UX_B.html">UX_B</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="2344.58" y="700">
-    <tspan x="2344.58" y="700"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.LX_B.html">LX_B</a></tspan>
+    <tspan x="2344.58" y="700"><a href="file:../Matrix/cmatrix.Matrix.LX_B.html">LX_B</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="2352.29" y="820">
-    <tspan x="2352.29" y="820"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.LU.html">LU</a></tspan>
+    <tspan x="2352.29" y="820"><a href="file:../Matrix/cmatrix.Matrix.LU.html">LU</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="2352.29" y="940">
-    <tspan x="2352.29" y="940"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.det.html">det</a></tspan>
+    <tspan x="2352.29" y="940"><a href="file:../Matrix/cmatrix.Matrix.det.html">det</a></tspan>
   </text>
   <g>
     <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #a020f0" points="2220,410 2260,410 2260,940 2289.27,940 "/>
@@ -1606,25 +1606,25 @@
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="2100" y="1620" width="120" height="60"/>
   </g>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="2111.86" y="1050.92">
-    <tspan x="2111.86" y="1050.92"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.tensorial_product.html">tensorial_product</a></tspan>
+    <tspan x="2111.86" y="1050.92"><a href="file:../Matrix/cmatrix.Matrix.tensorial_product.html">tensorial_product</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="2144.82" y="1150.92">
-    <tspan x="2144.82" y="1150.92"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.trace.html">trace</a></tspan>
+    <tspan x="2144.82" y="1150.92"><a href="file:../Matrix/cmatrix.Matrix.trace.html">trace</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="2134.45" y="1250.92">
-    <tspan x="2134.45" y="1250.92"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.convolve.html">convolve</a></tspan>
+    <tspan x="2134.45" y="1250.92"><a href="file:../Matrix/cmatrix.Matrix.convolve.html">convolve</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="2147.03" y="1350">
-    <tspan x="2147.03" y="1350"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.AtoB.html">AtoB</a></tspan>
+    <tspan x="2147.03" y="1350"><a href="file:../Matrix/cmatrix.Matrix.AtoB.html">AtoB</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="2150.92" y="1450">
-    <tspan x="2150.92" y="1450"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.gap.html">gap</a></tspan>
+    <tspan x="2150.92" y="1450"><a href="file:../Matrix/cmatrix.Matrix.gap.html">gap</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="2122.4" y="1550">
-    <tspan x="2122.4" y="1550"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.replace_zeros.html">replace_zeros</a></tspan>
+    <tspan x="2122.4" y="1550"><a href="file:../Matrix/cmatrix.Matrix.replace_zeros.html">replace_zeros</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="2124.99" y="1650">
-    <tspan x="2124.99" y="1650"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.count_zero.html">count_zeros</a></tspan>
+    <tspan x="2124.99" y="1650"><a href="file:../Matrix/cmatrix.Matrix.count_zero.html">count_zeros</a></tspan>
   </text>
   <g>
     <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="2015.52" y1="1019.1" x2="2090.26" y2="1019.9"/>
@@ -1817,25 +1817,25 @@
     <tspan x="2460" y="1040"></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="2429.47" y="1054.55">
-    <tspan x="2429.47" y="1054.55"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.orthogonal.html">orthogonal</a></tspan>
+    <tspan x="2429.47" y="1054.55"><a href="file:../Matrix/cmatrix.Matrix.orthogonal.html">orthogonal</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="2430.56" y="1153.46">
-    <tspan x="2430.56" y="1153.46"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.symmetric.html">symmetric</a></tspan>
+    <tspan x="2430.56" y="1153.46"><a href="file:../Matrix/cmatrix.Matrix.symmetric.html">symmetric</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="2437.1" y="1254.18">
-    <tspan x="2437.1" y="1254.18"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.hermitian.html">hermitian</a></tspan>
+    <tspan x="2437.1" y="1254.18"><a href="file:../Matrix/cmatrix.Matrix.hermitian.html">hermitian</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="2438.19" y="1354.18">
-    <tspan x="2438.19" y="1354.18"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.reversal.html">reversal</a></tspan>
+    <tspan x="2438.19" y="1354.18"><a href="file:../Matrix/cmatrix.Matrix.reversal.html">reversal</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="2438.19" y="1453.46">
-    <tspan x="2438.19" y="1453.46"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.nilpotent.html">nilpotent</a></tspan>
+    <tspan x="2438.19" y="1453.46"><a href="file:../Matrix/cmatrix.Matrix.nilpotent.html">nilpotent</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="2436.73" y="1653.46">
-    <tspan x="2436.73" y="1653.46"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.triangular.html">triangular</a></tspan>
+    <tspan x="2436.73" y="1653.46"><a href="file:../Matrix/cmatrix.Matrix.triangular.html">triangular</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="2438.19" y="1550.9">
-    <tspan x="2438.19" y="1550.9"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.diagonal.html">diagonal</a></tspan>
+    <tspan x="2438.19" y="1550.9"><a href="file:../Matrix/cmatrix.Matrix.diagonal.html">diagonal</a></tspan>
   </text>
   <g>
     <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="2039.16,980 2039.16,988.398 2263.62,988.398 2263.62,988.398 2298.94,988.398 2298.94,1620 2389.42,1620 "/>
@@ -2013,13 +2013,13 @@
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="320" y="420" width="160" height="40"/>
   </g>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="363.325" y="260.917">
-    <tspan x="363.325" y="260.917"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.read_from_file.html">read_from_file</a></tspan>
+    <tspan x="363.325" y="260.917"><a href="file:../Matrix/cmatrix.Matrix.read_from_file.html">read_from_file</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="363.325" y="360.917">
-    <tspan x="363.325" y="360.917"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.write_in_file.html">write_in_file</a></tspan>
+    <tspan x="363.325" y="360.917"><a href="file:../Matrix/cmatrix.Matrix.write_in_file.html">write_in_file</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="388.998" y="442.751">
-    <tspan x="388.998" y="442.751"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.pack.html">pack</a></tspan>
+    <tspan x="388.998" y="442.751"><a href="file:../Matrix/cmatrix.Matrix.pack.html">pack</a></tspan>
   </text>
   <g>
     <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="940,-300 940,-320 600,-320 600,240 489.736,240 "/>
@@ -2108,19 +2108,19 @@
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="380" y="740" width="100" height="40"/>
   </g>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="412.001" y="521">
-    <tspan x="412.001" y="521"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.mand.html">mand</a></tspan>
+    <tspan x="412.001" y="521"><a href="file:../Matrix/cmatrix.Matrix.mand.html">mand</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="419" y="580">
-    <tspan x="419" y="580"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.mor.html">mor</a></tspan>
+    <tspan x="419" y="580"><a href="file:../Matrix/cmatrix.Matrix.mor.html">mor</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="410.001" y="643">
-    <tspan x="410.001" y="643"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.mnand.html">mnand</a></tspan>
+    <tspan x="410.001" y="643"><a href="file:../Matrix/cmatrix.Matrix.mnand.html">mnand</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="414.998" y="703">
-    <tspan x="414.998" y="703"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.mnor.html">mnor</a></tspan>
+    <tspan x="414.998" y="703"><a href="file:../Matrix/cmatrix.Matrix.mnor.html">mnor</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="414.998" y="763">
-    <tspan x="414.998" y="763"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.mxor.html">mxor</a></tspan>
+    <tspan x="414.998" y="763"><a href="file:../Matrix/cmatrix.Matrix.mxor.html">mxor</a></tspan>
   </text>
   <g>
     <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #a020f0" points="925.334,579.955 520,579.955 520,760 489.736,760 "/>
@@ -2196,34 +2196,34 @@
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="380" y="1540" width="120" height="60"/>
   </g>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="411.72" y="854.14">
-    <tspan x="411.72" y="854.14"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.mirror_mat.html">mirror_mat</a></tspan>
+    <tspan x="411.72" y="854.14"><a href="file:../Matrix/cmatrix.Matrix.mirror_mat.html">mirror_mat</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="425.86" y="935.554">
-    <tspan x="425.86" y="935.554"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.clone.html">clone</a></tspan>
+    <tspan x="425.86" y="935.554"><a href="file:../Matrix/cmatrix.Matrix.clone.html">clone</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="403.236" y="1014.14">
-    <tspan x="403.236" y="1014.14"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.nth_diagonal.html">nth_diagonal</a></tspan>
+    <tspan x="403.236" y="1014.14"><a href="file:../Matrix/cmatrix.Matrix.nth_diagonal.html">nth_diagonal</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="423.032" y="1092.73">
-    <tspan x="423.032" y="1092.73"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.get_coef.html">get_coef</a></tspan>
+    <tspan x="423.032" y="1092.73"><a href="file:../Matrix/cmatrix.Matrix.get_coef.html">get_coef</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="425.86" y="1174.14">
-    <tspan x="425.86" y="1174.14"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.resize.html">resize</a></tspan>
+    <tspan x="425.86" y="1174.14"><a href="file:../Matrix/cmatrix.Matrix.resize.html">resize</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="411.72" y="1252.73">
-    <tspan x="411.72" y="1252.73"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.accumulate.html">accumulate</a></tspan>
+    <tspan x="411.72" y="1252.73"><a href="file:../Matrix/cmatrix.Matrix.accumulate.html">accumulate</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="418.79" y="1334.14">
-    <tspan x="418.79" y="1334.14"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.triangle.html">triangle</a></tspan>
+    <tspan x="418.79" y="1334.14"><a href="file:../Matrix/cmatrix.Matrix.triangle.html">triangle</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="394.956" y="1412.73">
-    <tspan x="394.956" y="1412.73"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.convolve_signal.html">convolve_signal</a></tspan>
+    <tspan x="394.956" y="1412.73"><a href="file:../Matrix/cmatrix.Matrix.convolve_signal.html">convolve_signal</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="428.688" y="1494.14">
-    <tspan x="428.688" y="1494.14"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.map.html">map</a></tspan>
+    <tspan x="428.688" y="1494.14"><a href="file:../Matrix/cmatrix.Matrix.map.html">map</a></tspan>
   </text>
   <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="415.962" y="1574.14">
-    <tspan x="415.962" y="1574.14"><a href="https://matrix-lib-v20.readthedocs.io/en/latest/Matrix/cmatrix.Matrix.normalize.html">normalize</a></tspan>
+    <tspan x="415.962" y="1574.14"><a href="file:../Matrix/cmatrix.Matrix.normalize.html">normalize</a></tspan>
   </text>
   <g>
     <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #a020f0" points="384.957,849.503 319.564,849.503 319.564,1010 370.264,1010 "/>
