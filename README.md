@@ -86,19 +86,19 @@ To setup manually :
   * pip install sphinx-autoapi
   
 To compile it write in the command prompt :
- 
- **python setup.py build_ext --inplace**
-
+ ```bash
+ python setup.py build_ext --inplace
+```
  And use it in Python with standard command
- 
- **import cmatrix**
- 
+  ```python
+ import cmatrix
+  ```
  The help documentation may be found at : https://matrix-lib-v20.readthedocs.io/en/latest/
  
  Or compile it on your local computer using
- 
- **make html**
- 
+  ```bash
+ make html
+  ```
 I've been working on an high-performance matrix code to rule many of standard calculation
 on the Anubis calculator (Graph transistion matrix, System resolution, etc) from Lenovo.
 
