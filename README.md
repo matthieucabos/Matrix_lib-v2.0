@@ -9,7 +9,7 @@ Utilitary scripts wrote in Python
 
 **Release Date**   : *23/09/2020*
 
-**Organization** : **INRAE-CNRS**
+**Organization** : *INRAE-CNRS*
 
 ______________________________________________________________________________________________________
 
