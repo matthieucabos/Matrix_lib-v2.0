@@ -107,7 +107,9 @@ The library is fully operationnal on CentOS Unix-based system
 
 The Matrix_convertor script can be used to convert a Matrix from the cmatrix to another Format. 
 
-Each converion is reversible except in pdf format. Avaible conversion formats are :
+Each converion is reversible except in pdf format. 
+
+Avaible conversion formats are :
 * **List** : via the Matrix2List* and reverse *List2Matrix*methods
 * **Numpy Array** : via the *Matrix2Numpy* and reverse *Numpy2Matrix* methods
 * **Pandas DataFrame** : via the *Matrix2Panda* and reverse *Panda2Matrix* methods
