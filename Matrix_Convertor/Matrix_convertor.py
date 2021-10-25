@@ -9,12 +9,17 @@ import os
 
 # sudo apt install tesseract-ocr libtesseract-dev tesseract-ocr-eng
 
-# def Matrix2xyz(Mat):
-# 	pass
-# def xyz2Matrix
-
 def Matrix2List(Mat):
-	# Converting a Matrix objedct to its associated Data list. The size is appended at the end
+	"""
+		Converting a Matrix objedct to its associated Data list. The size is appended at the end.
+
+		=============== ========= ========================
+		**Parameters**   **Type**   **Description**
+		*Mat*             Matrix    The Matrix to convert
+		=============== ========= ========================
+
+		:returns: List : The converted matrix as data list
+	"""
 	data=[]
 	for i in range(0,Mat.size_r()):
 		for j in range(0,Mat.size_c()):
@@ -24,7 +29,18 @@ def Matrix2List(Mat):
 	return data
 
 def List2Matrix(List,size_r,size_c):
-	# Converting a list and Known sizes to a Matrix object.
+	"""
+		Converting a list and Known sizes to a Matrix object.
+
+		================ ========== =======================
+		**Parameters**    **Type**   **Description**
+		*List*            List       The List to convert
+		*size_r*          Int        The number of Rows
+		*size_c*          Int        The number of Columns
+		================ ========== =======================
+
+		:returns: Matrix : A Matrix Object from size (size_r x size_c) containing the data list.
+	"""
 	data=Matrix(size_r,size_c)
 	ind=0
 	for i in range(0,Mat.size_r()):
@@ -34,14 +50,32 @@ def List2Matrix(List,size_r,size_c):
 	return data
 
 def Matrix2Numpy(Mat):
-	# Converting a Matrix obkect to a Numpy Array
+	"""
+		Converting a Matrix object to a Numpy Array.
+
+		============== ========== =======================
+		**Parameters**  **Type**   **Description**
+		*Mat*            Matrix    The Matrix to convert
+		============== ========== =======================
+
+		:returns: Numpy Array: The Numpy Array representing the Matrix Object
+	"""
 	data=[]
 	for i in range(0,Mat.size_r()):
 		data.append(Mat.line(i))
 	return np.array(data)
 
 def Numpy2Matrix(Array):
-	# Converting a Numpy Array to a Matrx Object
+	"""
+		Converting a Numpy Array to a Matrx Object.
+
+		============== ============== ===========================
+		**Parameters**   **Type**     **Description**
+		*Array*          Numpy Array  The Numpy Array to convert
+		============== ============== ===========================
+
+		:returns: Matrix: The Matrix Object representing the Numpy Array.
+	"""
 	data=Matrix(len(Array),len(Array[0]))
 	for i in range(0,Mat.size_r()):
 		for j in range(0,Mat.size_c()):
@@ -49,16 +83,45 @@ def Numpy2Matrix(Array):
 	return data
 
 def Matrix2Panda(Mat):
-	# Converting a Matrix Object to a Pandas dataFrame
+	"""
+		Converting a Matrix Object to a Pandas DataFrame.
+
+		=============== =========== =======================
+		**Parameters**    **Type**   **Description**
+		*Mat*              Matrix    The Matrix to convert
+		=============== =========== =======================
+
+		:returns: Pandas DataFrame : The DataFrame representing the Matrix Object
+
+	"""
 	nparray=Matrix2Numpy(Mat)
 	return pd.DataFrame(nparray,dtype='float')
 
 def Panda2Matrix(df):
-	# Converting a Pandas DataFrame to a Matrix Object.
+	"""
+		Converting a Pandas DataFrame to a Matrix Object.
+
+		=============== =================== ==========================
+		**Parameters**    **Type**          **Description**
+		*df*              Pandas DataFrame   The DataFrame to convert
+		=============== =================== ==========================
+
+		:returns: Matrix : The Matrix Object representing the DataFrame
+	"""
 	return Numpy2Matrix(df.to_numpy(dtype='float'))
 
 def Matrix2Ods(Mat,name):
-	# Converting a Matrix Object to an Table ods file.
+	"""
+		Converting a Matrix Object to an Table ods file.
+
+		=============== ========== =============================
+		**Parameters**    **Type**   **Description**
+		*Mat*             Matrix     The Matrix to convert
+		*name*            String     The name of the .ods file
+		=============== ========== =============================
+
+		:returns: None
+	"""
 	to_write=[]
 	for i in range(0,Mat.size_r()):
 		to_write.append(Mat.line(i))
@@ -69,7 +132,16 @@ def Matrix2Ods(Mat,name):
 	os.system('rm *.xlsx')
 
 def Ods2Matrix(pathname):
-	# Converting a Table ods file to a Matrix Object
+	"""
+		Converting a Table ods file to a Matrix Object.
+
+		================ ======== ===============================================================
+		**Parameters**   **Type**   **Description**
+		*pathname*       String     The exact name of the file to read, path should be indicated
+		================ ======== ===============================================================
+
+		:returns: Matrix: The Matrix containing all the .ods data
+	"""
 	Records=p.get_array(file_name=pathname)
 	size_r=len(Records[0])
 	size_c=0
@@ -83,13 +155,32 @@ def Ods2Matrix(pathname):
 	return Mat
 
 def Matrix2xlsx(Mat,name):
-	# Converting a Matrix Object to a Excel File
+	"""
+		Converting a Matrix Object to a Excel File.
+
+		=============== ========== ============================
+		**Parameters**   **Type**   **Description**
+		*Mat*            Matrix     The Matrix to convert
+		*name*           String     The name of the .xlsx file
+		=============== ========== ============================
+
+		:returns: None
+	"""
 	Matrix2Ods(Mat,name)
 	os.system('soffice --headless --convert-to xlsx '+name+'.ods')
 	os.system('rm '+name+'.ods')
 
-def xlsx2Matrix(Mat,pathname):
-	# Converting an Excel File to a Matrix Object
+def xlsx2Matrix(pathname):
+	"""
+		Converting an Excel File to a Matrix Object.
+
+		=============== ========== ==============================================================
+		**Parameters**   **Type**   **Description**
+		*pathname*       String     The exact name of the file to read, path should be indicated
+		=============== ========== ==============================================================
+
+		:returns: Matrix: The Matrix containing all the .xlsx data
+	"""
 	Wb=o.load_workbook(filename=pathname)
 	Ws=Wb.worksheets[0]
 	data=Matrix(Ws.max_row,Ws.max_column)
@@ -103,7 +194,17 @@ def xlsx2Matrix(Mat,pathname):
 	return data.transpose()
 
 def Matrix2tex(Mat,name):
-	# Converting a Matrix Object to a Tex Matrix
+	"""
+		Converting a Matrix Object to a Tex Matrix.
+
+		============== =========== ===========================
+		**Parameters**   **Type**   **Description**
+		*Mat*            Matrix     The Matrix to convert
+		*name*           String     The name of the .tex file
+		============== =========== ===========================
+
+		:returns:  None
+	"""
 	npa=Matrix2Numpy(Mat)
 	latex_code='\\documentclass{article}\n\\usepackage{nicematrix}\n\\begin{document}\n$'
 	latex_code+=a.to_ltx(npa, frmt = '{:6.2f}', arraytype = 'bmatrix', print_out=False)
@@ -112,7 +213,16 @@ def Matrix2tex(Mat,name):
 	f.write(latex_code)
 
 def tex2Matrix(pathname):
-	# Converting a Tex Matrix to a Matrix Object
+	"""
+		Converting a Tex Matrix to a Matrix Object (Only Matrix object will be treated).
+
+		=============== ========== =============================================================
+		**Parameters**   **Type**   **Description**
+		*pathname*       String     The exact name of the file to read, path should be indicated
+		=============== ========== =============================================================
+
+		:returns: Matrix: The Matrix containing the .tex data
+	"""
 	f=open(pathname,'r')
 	Content=f.readlines()
 	regex=r'[0-9]+\.[0-9]*'
@@ -132,14 +242,31 @@ def tex2Matrix(pathname):
 	return Numpy2Matrix(data)
 
 def Matrix2png(Mat,name):
-	# Converting a Matrix Object to a png picture
+	"""
+		Converting a Matrix Object to a png picture.
+
+		============== =========== ===========================
+		**Parameters**   **Type**   **Description**
+		*Mat*            Matrix     The Matrix to convert
+		*name*           String     The name of the .png file
+		============== =========== ===========================
+	"""
 	Matrix2tex(Mat,name)
 	os.system('pdflatex '+name+'.tex')
 	os.system('pdftoppm '+name+'.pdf '+name+'.pdf -png')
 	os.system('rm '+name+'.pdf')
 
 def png2Matrix(name):
-	# Converting a Png picture to a Matrix Object
+	"""
+		Converting a Png picture to a Matrix Object (Only Matrix object will be treated).
+
+		=============== ========== ====================================
+		**Parameters**   **Type**   **Description**
+		*name*           String     The exact name of the file to read
+		=============== ========== ====================================
+
+		:returns: Matrix: The Matrix containing all the Digital Informations of the png file.
+	"""
 	os.system('tesseract -l eng '+name+' '+name)
 	Contents=os.popen('cat *.txt').readlines()
 	data=[]
@@ -160,7 +287,17 @@ def png2Matrix(name):
 	return Numpy2Matrix(np.array(data))
 
 def Matrix2pdf(Mat,name):
-	# Converting a Matrix Objetc to a PDF File
+	"""
+		Converting a Matrix Object to a PDF File.
+
+		=============== ========== ============================
+		**Parameters**   **Type**   **Description**
+		*Mat*            Matrix     The Matrix to convert
+		*name*           String     The name of the .pdf file
+		=============== ========== ============================
+
+		:returns: None 
+	"""
 	Matrix2Ods(Mat,name)
 	os.system('soffice --headless --convert-to pdf:calc_pdf_Export '+name+'.ods')
 	os.system('rm '+name+'.ods')
@@ -177,7 +314,7 @@ print(Panda2Matrix(Matrix2Panda(Mat)))
 Matrix2Ods(Mat,'test')
 print(Ods2Matrix('test.ods'))
 Matrix2xlsx(Mat,'test')
-print(xlsx2Matrix(Mat,'test.xlsx'))
+print(xlsx2Matrix('test.xlsx'))
 Matrix2tex(Mat,'test')
 print(tex2Matrix('test.tex'))
 Matrix2png(Mat,'test')
