@@ -18,8 +18,8 @@ This repository contain my optimized Python Matrix lib..
 The cmatrix.pyx is the cythonized version of the matrix.py library containing all standard
 algebrica operations on matrix and usefull utils (save and load, quick access, quick programming, etc...)
 
-Description
------------
+## Description
+
 
 Welcome in the CMatrix Module. This module, written with python and Cython, is as fast as a c/c++ Librairie file. It has been thinked for Matrix complex computation. This Module have been splitted into three main parts :
 
@@ -70,8 +70,7 @@ To read a matrix from an external file, you can use the Matrix Getter py file in
 The full description of each part is avaible on the left tree entries of the documentation.
 All the functions are documented and a small example will be used as an Usage Guide.
 
-Setup
------
+## Setup
 
 To setup manually :
 
@@ -104,8 +103,33 @@ on the Anubis calculator (Graph transistion matrix, System resolution, etc) from
 
 The library is fully operationnal on CentOS Unix-based system
 
-Support
--------
+## Matrix Convertor
+
+The Matrix_convertor script can be used to convert a Matrix from the cmatrix to another Format. 
+
+Each converion is reversible except in pdf format. Avaible conversion formats are :
+* **List** : via the Matrix2List* and reverse *List2Matrix*methods
+* **Numpy Array** : via the *Matrix2Numpy* and reverse *Numpy2Matrix* methods
+* **Pandas DataFrame** : via the *Matrix2Panda* and reverse *Panda2Matrix* methods
+* **Office Ods file** : via the *Matrix2Ods* and reverse *Ods2Matrix* methods
+* **Excel Xlsx file** : via the *Matrix2xlsx* and reverse *xlsx2Matrix* methods
+* **Latex file** : via the *Matrix2tex* and reverse *tex2Matrix* methods
+* **Picture Png file** : via the *Matrix2png* and reverse *png2Matrix* methods
+* **Pdf file** : via the *Matrix2pdf* method
+	
+To install requirements, please to use the following command :
+
+```bash
+./Install_Requirements.sh
+```
+
+To use, just import the file using the command
+
+```python
+from Matrix_convertor import *
+```
+
+## Support
 
 Please to send failure reports
 
