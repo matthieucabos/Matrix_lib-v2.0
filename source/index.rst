@@ -73,6 +73,7 @@ Here you will find the main Scheme to have a global look on this module.
    Usage
    Functions
    Matrix
+   Matrix_convertor
 
 
 Indices and tables
