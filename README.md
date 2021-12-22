@@ -2,9 +2,6 @@
 
 # Python Matrix Module #
 
-
-Utilitary scripts wrote in Python
-
 # Matrix module
 
 **Author** : *CABOS Matthieu*
