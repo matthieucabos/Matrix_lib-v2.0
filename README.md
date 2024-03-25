@@ -10,7 +10,7 @@
 
 ______________________________________________________________________________________________________
 
-This repository contain my optimized Python Matrix lib..
+This repository contain my optimized Python Matrix lib including Einstein's calculation algorithms.
 
 The cmatrix.pyx is the cythonized version of the matrix.py library containing all standard
 algebrica operations on matrix and usefull utils (save and load, quick access, quick programming, etc...)
